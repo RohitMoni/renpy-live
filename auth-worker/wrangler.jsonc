@@ -1,0 +1,9 @@
+{
+  "name": "renpy-live-auth",
+  "main": "src/index.mjs",
+  "compatibility_date": "2026-10-10",
+  "workers_dev": true,
+  "vars": {
+    "EDITOR_URL": "https://rohitmoni.github.io/renpy-live/"
+  }
+}
